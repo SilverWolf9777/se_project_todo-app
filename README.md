@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This project I focused on changing the validator to be a class as well as some other parts of the app.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+The app focuses on making tasks and setting due dates. When tasks are completed they are able to be deleted.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+I used classes to update the validator and the todo box elements.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Look at my Todo App here](https://silverwolf9777.github.io/se_project_todo-app/)
